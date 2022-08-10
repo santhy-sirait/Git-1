@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: white;
+}
+
+header div {
+    background-color: rgb(247, 37, 212);
+}
+
+
+body {
+    color: hotpink;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ca2f9c;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: hotpink;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+
+  .bottom-centered {
+    position: absolute;
+    right: 50px;
+    left: 50px;
+    text-align: center;
+    bottom: 8px;
+  }
+  
+a { 
+    text-decoration: none;
+    }
+a {
+    color: hotpink;
+    }
+  
+  a:hover {
+    color: blue;
+  }
+
+html {
+    font-size: 65%;
+}
+
+body {
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3.5rem;
+    color: hotpink;
+    font-family: cursive;
+}
+p {
+    font-size: 2.5rem;
+    color: hotpink;
+    font-family: cursive;
+}
+
+
+header div {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom-color: hotpink;
+}
+
+img {
+    
+    padding-left: 0px;
+    border-width: 0px;
+    border-style: solid;
+   
+}
+
+footer {
+    font-size: 1.5rem;
+    color: hotpink;
+}
+
+
+footer div {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+footer li {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    color: hotpink;
+
+}
+
+
+button {
+    color: white;
+    column-width: auto;
+    position: relative;
+    text-align: center;
+    background-color: hotpink;
+
+}
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+img {
+    margin: 0 auto;
+    width: 60%;
+    display: block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+main {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+main h2 {
+    margin-bottom: 0.5rem;
+}
+
+main p {
+    margin-bottom: 0.5rem;
+}
+
+main {
+    margin-bottom: 2rem;
+}
+ {
+
+}
+
+footer {
+    margin-top: 5rem;
+    padding-top: 5rem;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+
+@media (min-width: 1024px) {
+    body {
+        background-color: white;
+        color: #16e643;
+        font-size: 1.5rem;
+        line-height: 3rem;
+    }
+   
