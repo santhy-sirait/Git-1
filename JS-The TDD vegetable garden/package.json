@@ -1,6 +1,0 @@
-{
-    "main": "test.js",
-    "scripts": {
-      "test": "jest"
-    }
-}
